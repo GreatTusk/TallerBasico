@@ -13,7 +13,6 @@ int IR_DER;
 int IR_IZD;
 int lado;
 int pause = 200;
-const char* msj = "Hola";
 
 void setup() {
   inicializarMovimientoRobot();
