@@ -19,7 +19,6 @@ int umbral = 120; //Depende
 void setup() {
   inicializarMovimientoRobot();
   inicializarSensoresRobot();
-  inicializarPantallaRobot(); //Atención a que se tiene que inicializar la pantalla
   botonInicio();
 }
 
